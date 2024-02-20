@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: white;
+    background-color: blanchedalmond;
 }
 
 header {
@@ -53,4 +53,15 @@ header {
 }
 html{
     background-color: blanchedalmond;
+}
+
+.tabla {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.tabla th, .tabla td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
 }
